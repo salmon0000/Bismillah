@@ -1,10 +1,11 @@
 
 alert("assalamualaikum warahmatullahi wabarakatuh")
-alert("Hi Fara Aurin Salsabila 👋🏻");
-alert("Selamat ulang taun Faraa");
+alert("Hi Vendor 👋🏻");
+alert("EHH Fara maksudnya (─ ‿ ─)");
+alert("Selamat ulang taun Fara Aurin Salsabila 🎀🫶🏻💌💓");
 alert("yang keberapa yaa?? wkwkwkwk");
 alert("intinya udah kepala dua ajaa");
-alert("moga diberi keberkah an umurnya, diberi kelancaran rezeki dan karir nya");
+alert("moga diberi keberkahan umurnya, diberi kelancaran rezeki dan karir nya");
 alert("makin sayang juga ke orang tua dan dikelilingin orang-orang baik")
 alert("makin kuat buat ngadepin segala problem di dunia ini💪🏻");
 alert("hebat sih udah ngelaluin sampe sejauh ini✨");
